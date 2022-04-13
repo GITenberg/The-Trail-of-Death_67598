@@ -1,0 +1,47 @@
+_repo: The-Trail-of-Death_67598
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gustavson, Lealand
+    aliases:
+    - Gustavson, Lealand R.
+    - Gustavson, L. R.
+    - Gustavson, Lealand Roger
+    - Gustavson, Lea
+    birthdate: 1899
+    deathdate: 1966
+    gutenberg_agent_id: '54353'
+    url: http://www.gutenberg.org/2009/agents/54353
+creator:
+  author:
+    agent_name: Bedford-Jones, H. (Henry)
+    aliases:
+    - Hawkwood, Allan
+    - Bedford-Jones, Henry James O'Brien
+    - Wycliffe, John
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '34930'
+    url: http://www.gutenberg.org/2009/agents/34930
+    wikipedia: https://en.wikipedia.org/wiki/H._Bedford-Jones
+description: ''
+gutenberg_issued: '2022-03-09'
+identifiers:
+  gutenberg: '67598'
+language: en
+pgterms:marc905: 20220306035914bedfordjon
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Consolidated Magazines Corporation (The Blue
+  Book Magazine),1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- GITenberg
+title: The Trail of Death
+url: http://www.gutenberg.org/ebooks/67598
